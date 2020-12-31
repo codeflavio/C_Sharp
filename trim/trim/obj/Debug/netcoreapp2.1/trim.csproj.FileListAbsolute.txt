@@ -1,0 +1,11 @@
+D:\VISUAL STUDIO\CURSO C#\trim\trim\bin\Debug\netcoreapp2.1\trim.deps.json
+D:\VISUAL STUDIO\CURSO C#\trim\trim\bin\Debug\netcoreapp2.1\trim.runtimeconfig.json
+D:\VISUAL STUDIO\CURSO C#\trim\trim\bin\Debug\netcoreapp2.1\trim.runtimeconfig.dev.json
+D:\VISUAL STUDIO\CURSO C#\trim\trim\bin\Debug\netcoreapp2.1\trim.dll
+D:\VISUAL STUDIO\CURSO C#\trim\trim\bin\Debug\netcoreapp2.1\trim.pdb
+D:\VISUAL STUDIO\CURSO C#\trim\trim\obj\Debug\netcoreapp2.1\trim.csprojAssemblyReference.cache
+D:\VISUAL STUDIO\CURSO C#\trim\trim\obj\Debug\netcoreapp2.1\trim.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO\CURSO C#\trim\trim\obj\Debug\netcoreapp2.1\trim.AssemblyInfoInputs.cache
+D:\VISUAL STUDIO\CURSO C#\trim\trim\obj\Debug\netcoreapp2.1\trim.AssemblyInfo.cs
+D:\VISUAL STUDIO\CURSO C#\trim\trim\obj\Debug\netcoreapp2.1\trim.dll
+D:\VISUAL STUDIO\CURSO C#\trim\trim\obj\Debug\netcoreapp2.1\trim.pdb

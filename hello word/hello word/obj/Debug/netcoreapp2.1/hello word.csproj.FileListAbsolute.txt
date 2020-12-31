@@ -1,0 +1,11 @@
+D:\VISUAL STUDIO\CURSO C#\hello word\hello word\bin\Debug\netcoreapp2.1\hello word.deps.json
+D:\VISUAL STUDIO\CURSO C#\hello word\hello word\bin\Debug\netcoreapp2.1\hello word.runtimeconfig.json
+D:\VISUAL STUDIO\CURSO C#\hello word\hello word\bin\Debug\netcoreapp2.1\hello word.runtimeconfig.dev.json
+D:\VISUAL STUDIO\CURSO C#\hello word\hello word\bin\Debug\netcoreapp2.1\hello word.dll
+D:\VISUAL STUDIO\CURSO C#\hello word\hello word\bin\Debug\netcoreapp2.1\hello word.pdb
+D:\VISUAL STUDIO\CURSO C#\hello word\hello word\obj\Debug\netcoreapp2.1\hello word.csprojAssemblyReference.cache
+D:\VISUAL STUDIO\CURSO C#\hello word\hello word\obj\Debug\netcoreapp2.1\hello word.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO\CURSO C#\hello word\hello word\obj\Debug\netcoreapp2.1\hello word.AssemblyInfoInputs.cache
+D:\VISUAL STUDIO\CURSO C#\hello word\hello word\obj\Debug\netcoreapp2.1\hello word.AssemblyInfo.cs
+D:\VISUAL STUDIO\CURSO C#\hello word\hello word\obj\Debug\netcoreapp2.1\hello word.dll
+D:\VISUAL STUDIO\CURSO C#\hello word\hello word\obj\Debug\netcoreapp2.1\hello word.pdb

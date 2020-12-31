@@ -1,0 +1,10 @@
+D:\VISUAL STUDIO\CURSO C#\Precisão de inteiros e limites\Limites máximo e minimo\Limites máximo e minimo\bin\Debug\netcoreapp2.1\Limites máximo e minimo.deps.json
+D:\VISUAL STUDIO\CURSO C#\Precisão de inteiros e limites\Limites máximo e minimo\Limites máximo e minimo\bin\Debug\netcoreapp2.1\Limites máximo e minimo.runtimeconfig.json
+D:\VISUAL STUDIO\CURSO C#\Precisão de inteiros e limites\Limites máximo e minimo\Limites máximo e minimo\bin\Debug\netcoreapp2.1\Limites máximo e minimo.runtimeconfig.dev.json
+D:\VISUAL STUDIO\CURSO C#\Precisão de inteiros e limites\Limites máximo e minimo\Limites máximo e minimo\bin\Debug\netcoreapp2.1\Limites máximo e minimo.dll
+D:\VISUAL STUDIO\CURSO C#\Precisão de inteiros e limites\Limites máximo e minimo\Limites máximo e minimo\bin\Debug\netcoreapp2.1\Limites máximo e minimo.pdb
+D:\VISUAL STUDIO\CURSO C#\Precisão de inteiros e limites\Limites máximo e minimo\Limites máximo e minimo\obj\Debug\netcoreapp2.1\Limites máximo e minimo.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO\CURSO C#\Precisão de inteiros e limites\Limites máximo e minimo\Limites máximo e minimo\obj\Debug\netcoreapp2.1\Limites máximo e minimo.AssemblyInfoInputs.cache
+D:\VISUAL STUDIO\CURSO C#\Precisão de inteiros e limites\Limites máximo e minimo\Limites máximo e minimo\obj\Debug\netcoreapp2.1\Limites máximo e minimo.AssemblyInfo.cs
+D:\VISUAL STUDIO\CURSO C#\Precisão de inteiros e limites\Limites máximo e minimo\Limites máximo e minimo\obj\Debug\netcoreapp2.1\Limites máximo e minimo.dll
+D:\VISUAL STUDIO\CURSO C#\Precisão de inteiros e limites\Limites máximo e minimo\Limites máximo e minimo\obj\Debug\netcoreapp2.1\Limites máximo e minimo.pdb

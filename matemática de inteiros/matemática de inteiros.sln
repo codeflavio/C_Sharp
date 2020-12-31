@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "matemática de inteiros", "matemática de inteiros\matemática de inteiros.csproj", "{2B03EFD9-F130-4F6C-B19E-91FE469CFFE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B03EFD9-F130-4F6C-B19E-91FE469CFFE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B03EFD9-F130-4F6C-B19E-91FE469CFFE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B03EFD9-F130-4F6C-B19E-91FE469CFFE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B03EFD9-F130-4F6C-B19E-91FE469CFFE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DB581B8-C3CD-4EBB-824F-E2F17CFA23A3}
+	EndGlobalSection
+EndGlobal

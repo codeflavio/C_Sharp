@@ -1,0 +1,7 @@
+﻿Build iniciado...
+1>------ Compilação iniciada: Projeto: teste, Configuração: Debug Any CPU ------
+1>D:\VISUAL STUDIO\CURSO C#\teste\teste\Program.cs(9,17,9,18): warning CS0219: A variável "A" é atribuída, mas seu valor nunca é usado
+1>D:\VISUAL STUDIO\CURSO C#\teste\teste\Program.cs(9,20,9,21): warning CS0219: A variável "B" é atribuída, mas seu valor nunca é usado
+1>teste -> D:\VISUAL STUDIO\CURSO C#\teste\teste\bin\Debug\netcoreapp3.1\teste.dll
+1>Projeto de compilação pronto "teste.csproj".
+========== Compilar: 1 com êxito, 0 com falha, 0 atualizados, 0 ignorados ==========

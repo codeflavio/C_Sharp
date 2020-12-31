@@ -1,0 +1,11 @@
+D:\VISUAL STUDIO\CURSO C#\Ordem das operações\Ordem das operações\bin\Debug\netcoreapp2.1\Ordem das operações.deps.json
+D:\VISUAL STUDIO\CURSO C#\Ordem das operações\Ordem das operações\bin\Debug\netcoreapp2.1\Ordem das operações.runtimeconfig.json
+D:\VISUAL STUDIO\CURSO C#\Ordem das operações\Ordem das operações\bin\Debug\netcoreapp2.1\Ordem das operações.runtimeconfig.dev.json
+D:\VISUAL STUDIO\CURSO C#\Ordem das operações\Ordem das operações\bin\Debug\netcoreapp2.1\Ordem das operações.dll
+D:\VISUAL STUDIO\CURSO C#\Ordem das operações\Ordem das operações\bin\Debug\netcoreapp2.1\Ordem das operações.pdb
+D:\VISUAL STUDIO\CURSO C#\Ordem das operações\Ordem das operações\obj\Debug\netcoreapp2.1\Ordem das operações.csprojAssemblyReference.cache
+D:\VISUAL STUDIO\CURSO C#\Ordem das operações\Ordem das operações\obj\Debug\netcoreapp2.1\Ordem das operações.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO\CURSO C#\Ordem das operações\Ordem das operações\obj\Debug\netcoreapp2.1\Ordem das operações.AssemblyInfoInputs.cache
+D:\VISUAL STUDIO\CURSO C#\Ordem das operações\Ordem das operações\obj\Debug\netcoreapp2.1\Ordem das operações.AssemblyInfo.cs
+D:\VISUAL STUDIO\CURSO C#\Ordem das operações\Ordem das operações\obj\Debug\netcoreapp2.1\Ordem das operações.dll
+D:\VISUAL STUDIO\CURSO C#\Ordem das operações\Ordem das operações\obj\Debug\netcoreapp2.1\Ordem das operações.pdb

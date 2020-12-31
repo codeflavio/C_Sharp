@@ -1,0 +1,11 @@
+D:\VISUAL STUDIO\CURSO C#\Replace\Replace\bin\Debug\netcoreapp2.1\Replace.deps.json
+D:\VISUAL STUDIO\CURSO C#\Replace\Replace\bin\Debug\netcoreapp2.1\Replace.runtimeconfig.json
+D:\VISUAL STUDIO\CURSO C#\Replace\Replace\bin\Debug\netcoreapp2.1\Replace.runtimeconfig.dev.json
+D:\VISUAL STUDIO\CURSO C#\Replace\Replace\bin\Debug\netcoreapp2.1\Replace.dll
+D:\VISUAL STUDIO\CURSO C#\Replace\Replace\bin\Debug\netcoreapp2.1\Replace.pdb
+D:\VISUAL STUDIO\CURSO C#\Replace\Replace\obj\Debug\netcoreapp2.1\Replace.csprojAssemblyReference.cache
+D:\VISUAL STUDIO\CURSO C#\Replace\Replace\obj\Debug\netcoreapp2.1\Replace.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO\CURSO C#\Replace\Replace\obj\Debug\netcoreapp2.1\Replace.AssemblyInfoInputs.cache
+D:\VISUAL STUDIO\CURSO C#\Replace\Replace\obj\Debug\netcoreapp2.1\Replace.AssemblyInfo.cs
+D:\VISUAL STUDIO\CURSO C#\Replace\Replace\obj\Debug\netcoreapp2.1\Replace.dll
+D:\VISUAL STUDIO\CURSO C#\Replace\Replace\obj\Debug\netcoreapp2.1\Replace.pdb

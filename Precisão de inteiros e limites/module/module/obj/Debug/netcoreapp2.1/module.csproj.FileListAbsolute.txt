@@ -1,0 +1,11 @@
+D:\VISUAL STUDIO\CURSO C#\Precisão de inteiros e limites\module\module\bin\Debug\netcoreapp2.1\module.deps.json
+D:\VISUAL STUDIO\CURSO C#\Precisão de inteiros e limites\module\module\bin\Debug\netcoreapp2.1\module.runtimeconfig.json
+D:\VISUAL STUDIO\CURSO C#\Precisão de inteiros e limites\module\module\bin\Debug\netcoreapp2.1\module.runtimeconfig.dev.json
+D:\VISUAL STUDIO\CURSO C#\Precisão de inteiros e limites\module\module\bin\Debug\netcoreapp2.1\module.dll
+D:\VISUAL STUDIO\CURSO C#\Precisão de inteiros e limites\module\module\bin\Debug\netcoreapp2.1\module.pdb
+D:\VISUAL STUDIO\CURSO C#\Precisão de inteiros e limites\module\module\obj\Debug\netcoreapp2.1\module.csprojAssemblyReference.cache
+D:\VISUAL STUDIO\CURSO C#\Precisão de inteiros e limites\module\module\obj\Debug\netcoreapp2.1\module.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO\CURSO C#\Precisão de inteiros e limites\module\module\obj\Debug\netcoreapp2.1\module.AssemblyInfoInputs.cache
+D:\VISUAL STUDIO\CURSO C#\Precisão de inteiros e limites\module\module\obj\Debug\netcoreapp2.1\module.AssemblyInfo.cs
+D:\VISUAL STUDIO\CURSO C#\Precisão de inteiros e limites\module\module\obj\Debug\netcoreapp2.1\module.dll
+D:\VISUAL STUDIO\CURSO C#\Precisão de inteiros e limites\module\module\obj\Debug\netcoreapp2.1\module.pdb

@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\VISUAL STUDIO\\CURSO C#\\hello word\\hello word\\hello word.csproj": {}
+  },
+  "projects": {
+    "D:\\VISUAL STUDIO\\CURSO C#\\hello word\\hello word\\hello word.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\VISUAL STUDIO\\CURSO C#\\hello word\\hello word\\hello word.csproj",
+        "projectName": "hello word",
+        "projectPath": "D:\\VISUAL STUDIO\\CURSO C#\\hello word\\hello word\\hello word.csproj",
+        "packagesPath": "C:\\Users\\FAMÍLIA VIEIRA\\.nuget\\packages\\",
+        "outputPath": "D:\\VISUAL STUDIO\\CURSO C#\\hello word\\hello word\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\FAMÍLIA VIEIRA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

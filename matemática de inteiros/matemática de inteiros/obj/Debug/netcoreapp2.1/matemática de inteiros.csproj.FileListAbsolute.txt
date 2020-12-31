@@ -1,0 +1,10 @@
+D:\VISUAL STUDIO\CURSO C#\matemática de inteiros\matemática de inteiros\bin\Debug\netcoreapp2.1\matemática de inteiros.deps.json
+D:\VISUAL STUDIO\CURSO C#\matemática de inteiros\matemática de inteiros\bin\Debug\netcoreapp2.1\matemática de inteiros.runtimeconfig.json
+D:\VISUAL STUDIO\CURSO C#\matemática de inteiros\matemática de inteiros\bin\Debug\netcoreapp2.1\matemática de inteiros.runtimeconfig.dev.json
+D:\VISUAL STUDIO\CURSO C#\matemática de inteiros\matemática de inteiros\bin\Debug\netcoreapp2.1\matemática de inteiros.dll
+D:\VISUAL STUDIO\CURSO C#\matemática de inteiros\matemática de inteiros\bin\Debug\netcoreapp2.1\matemática de inteiros.pdb
+D:\VISUAL STUDIO\CURSO C#\matemática de inteiros\matemática de inteiros\obj\Debug\netcoreapp2.1\matemática de inteiros.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO\CURSO C#\matemática de inteiros\matemática de inteiros\obj\Debug\netcoreapp2.1\matemática de inteiros.AssemblyInfoInputs.cache
+D:\VISUAL STUDIO\CURSO C#\matemática de inteiros\matemática de inteiros\obj\Debug\netcoreapp2.1\matemática de inteiros.AssemblyInfo.cs
+D:\VISUAL STUDIO\CURSO C#\matemática de inteiros\matemática de inteiros\obj\Debug\netcoreapp2.1\matemática de inteiros.dll
+D:\VISUAL STUDIO\CURSO C#\matemática de inteiros\matemática de inteiros\obj\Debug\netcoreapp2.1\matemática de inteiros.pdb
